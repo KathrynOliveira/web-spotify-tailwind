@@ -20,7 +20,7 @@ Este é um projeto simples que replica a interface do Spotify de forma básica, 
 
 1. Clone o repositório:
    ```bash
-   git clone https://github.com/KathrynOliveira/course-spotify-tailwind.git
+   git clone https://github.com/KathrynOliveira/course-spotify.git
 
  ## 👨‍💻 Autora
 
